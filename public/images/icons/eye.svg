@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="23" height="23" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Visibility_Filled" data-name="Icon / Visibility / Filled" opacity="0.5" clip-path="url(#clip-path)">
+    <path id="Path_988" data-name="Path 988" d="M23.375-39A11.155,11.155,0,0,0,13-31.926a11.155,11.155,0,0,0,10.375,7.074,11.155,11.155,0,0,0,10.375-7.074A11.155,11.155,0,0,0,23.375-39Zm0,11.79a4.718,4.718,0,0,1-4.716-4.716,4.718,4.718,0,0,1,4.716-4.716,4.718,4.718,0,0,1,4.716,4.716A4.718,4.718,0,0,1,23.375-27.21Zm0-7.546a2.826,2.826,0,0,0-2.83,2.83,2.826,2.826,0,0,0,2.83,2.83,2.826,2.826,0,0,0,2.83-2.83A2.826,2.826,0,0,0,23.375-34.755Z" transform="translate(-12.057 43.716)"/>
+    <rect id="Box" width="23" height="23" fill="none"/>
+  </g>
+</svg>

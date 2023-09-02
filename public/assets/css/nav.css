@@ -1,0 +1,56 @@
+/*
+*
+* Navbar style
+*
+* */
+
+/*
+* Gawazy-logo used for navbar and footer logos
+* */
+.gawazy-logo {
+    width: 140px;
+    padding: 0px 15px;
+}
+
+.nav-item a{
+    color: #000;
+    font-size: 18px;
+    text-decoration: none;
+}
+/*
+* Gawazy button used in many locations
+* */
+#gawazy-btn {
+    height: 45px ;
+    width: 120px;
+    background-color: #f37b7d;
+    color: #fff;
+    font-size: 18px;
+    padding: 0px;
+}
+
+#gawazy-btn a {
+    color: #fff;
+}
+
+.nav-categories {
+    border: 1px solid #f8f8f8;
+    visibility: hidden;
+    top: 45px;
+    right: 0px;
+    width: 520px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+    list-style: none;
+    z-index: 3;
+}
+
+.nav-categories a {
+    font-size: 12px;
+}
+
+.categories-btn:focus + .nav-categories {
+    visibility: visible;
+}
+.nav-link {
+    font-size: 16px !important;
+}

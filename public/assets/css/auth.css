@@ -1,0 +1,22 @@
+/*
+*
+* Auth views style [login - register - reset]
+*
+* */
+
+.auth-body {
+    border: 1px solid #ddd;
+}
+
+label {
+    font-size: 17px;
+}
+
+.auth-text {
+    margin: 10px 0px !important;
+}
+
+.auth-input {
+    padding: 10px 15px !important;
+    margin-bottom: 15px;
+}

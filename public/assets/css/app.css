@@ -1,0 +1,27 @@
+body {
+    direction: rtl;
+}
+
+/* colors */
+
+.gawazy-bg {
+    background-color: #fff8ee !important;
+}
+.gawazy-bg-white {
+    background-color: #ffffff !important;
+}
+.gawazy-primary {
+    background-color: #f37b7d !important;
+}
+.gawazy-secondary {
+    background-color: #67949e !important;
+}
+.gawazy-font-primary {
+    color: #f37b7d !important;
+}
+.gawazy-font-secondary {
+    color: #67949e !important;
+}
+.gawazy-font-gray {
+    color: #fafafa !important;
+}

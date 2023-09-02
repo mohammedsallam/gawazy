@@ -1,0 +1,86 @@
+.banner-bg {
+    width: 100%;
+    max-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.vendor-details, .offer-vendor-details{
+    background-color: #fff8ee;
+    margin-top: -50px !important;
+    text-align: center;
+    z-index: 2;
+}
+.offer-vendor-details{
+    margin-top: 10px !important;
+}
+.offer-sm-img {
+    cursor: pointer;
+}
+.profile-img, .offer-profile-img {
+    width: 150px;
+    height: 150px;
+    margin-top: -80px;
+    border-radius: 100px;
+}
+.offer-profile-img {
+    margin-top: 10px;
+}
+.vendor-name {
+    color: #f37b7d;
+}
+.vendor-info, .service-name {
+    color: #67949e;
+    margin-top: -5px;
+}
+.price-details {
+    padding-top: 5px;
+}
+.price-bg, .tag {
+    padding: 5px 15px;
+    background-color: #67949e;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.price-rang {
+    color: #f37b7d;
+}
+.tag {
+    padding: 5px 15px;
+    margin: 20px 80px;
+    background-color: #f37b7d;
+}
+.add-to-favorite {
+    border: none;
+    width: 80%;
+    margin: 0px;
+}
+.my-services {
+    margin-top: -15px !important;
+}
+.add-to-favorite:hover {
+    background-color: #f68687;
+}
+.call-btns {
+    background-color: #67949e;
+    border: none;
+    width: 25%;
+    margin: .6%;
+}
+.call-i {
+    width: 20px;
+}
+#service_description {
+    display: none;
+}
+.comment-txt {
+    font-size: 15px;
+}
+.like-btn {
+    width: 20px;
+}
+.like-txt {
+    padding: 0px 12.5px;
+}

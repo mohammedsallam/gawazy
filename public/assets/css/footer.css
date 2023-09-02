@@ -1,0 +1,31 @@
+/*
+*
+* Footer & Mega Footer style
+*
+* */
+
+.quick-links, .icons {
+    list-style: none;
+}
+
+.quick-links li {
+    width: 120px;
+}
+
+.quick-links li a, .designed-by a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.icons {
+    text-align: center !important;
+}
+
+.icons li {
+    padding: 5px;
+}
+
+.copyrights, .designed-by {
+    font-size: small;
+    padding: 5px;
+}

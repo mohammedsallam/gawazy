@@ -1,0 +1,30 @@
+/*
+*
+* Search section style
+*
+* */
+.search-container {
+    background-color: #fff8ee;
+    padding: 10px;
+}
+
+#search, #category_id {
+    width: 100%;
+    border-color: #ddd;
+    padding: 10px 15px 5px 15px !important;
+    font-size: 18px !important;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+select {
+    -webkit-appearance: none;
+}
+
+optgroup {
+    font-size: 13px !important;
+    color: #f37b7d;
+}
+
+option {
+    color: #000;
+}

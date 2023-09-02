@@ -1,0 +1,31 @@
+.dashboard-profile-img {
+    width: 100px;
+    border-radius: 50px;
+}
+#dashboard-edit {
+    width: 15px;
+}
+.sidebar-btn {
+    margin-top: -10px;
+}
+.sidebar-btn a {
+    border: none;
+}
+.sidebar-btn a:focus {
+    border: none;
+}
+.dashboard-icon {
+    width: 20px;
+}
+.sidebar-saparator {
+    margin-top: 0px;
+}
+.close-btn {
+    border: 1px solid #f37b7d !important;
+}
+input[type="file"] {
+    display: none;
+}
+.notifications-saparator {
+    margin-top: -15px;
+}
